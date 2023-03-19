@@ -20,14 +20,8 @@ https://www.microsoft.com/en-us/evalcenter/download-windows-11-office-365-lab-ki
 ---
 # Windows Servers
 
-Windows Sever 2012 R2 Essentials:
-https://www.microsoft.com/en-us/evalcenter/download-windows-server-2012-r2-essentials
-
-Windows Server 2016 Essentials:
-https://www.microsoft.com/en-us/evalcenter/download-windows-server-2016-essentials
-
-Windows Server 2019 Essentials:
-https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019-essentials
+Windows Server 2012 R2: 
+https://www.microsoft.com/en-us/evalcenter/download-windows-server-2012-r2
 
 Windows Server 2016:
 https://www.microsoft.com/en-us/evalcenter/download-windows-server-2016
@@ -37,6 +31,33 @@ https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019
 
 Windows Server 2022:
 https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022
+
+---
+# Windows Server Essentials
+
+Windows Sever 2012 R2 Essentials:
+https://www.microsoft.com/en-us/evalcenter/download-windows-server-2012-r2-essentials
+
+Windows Server 2016 Essentials:
+https://www.microsoft.com/en-us/evalcenter/download-windows-server-2016-essentials
+
+Windows Server 2019 Essentials:
+https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019-essentials
+
+---
+# Windows Server Hyper-V
+
+Windows Hyper-V 2012
+https://www.microsoft.com/en-us/evalcenter/download-hyper-v-server-2012
+
+Windows Hyper-V 2012 R2
+https://www.microsoft.com/en-us/evalcenter/download-hyper-v-server-2012-r2
+
+Windows Hyper-V 2016
+https://www.microsoft.com/en-us/evalcenter/download-hyper-v-server-2016
+
+Windows Hyper-V 2019
+https://www.microsoft.com/en-us/evalcenter/download-hyper-v-server-2019
 
 ---
 # Windows SQL Servers
