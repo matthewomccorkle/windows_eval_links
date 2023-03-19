@@ -60,6 +60,14 @@ Windows Hyper-V 2019
 https://www.microsoft.com/en-us/evalcenter/download-hyper-v-server-2019
 
 ---
+# Windows Admin Center
+https://www.microsoft.com/en-us/evalcenter/download-windows-admin-center
+
+---
+# Windows Virtual Hardware Lab kit
+https://www.microsoft.com/en-us/evalcenter/download-virtual-hardware-lab-kit
+
+---
 # Windows SQL Servers
 
 Windows SQL Server 2022:
