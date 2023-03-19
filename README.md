@@ -23,6 +23,12 @@ https://www.microsoft.com/en-us/evalcenter/download-windows-11-office-365-lab-ki
 Windows Sever 2012 R2 Essentials:
 https://www.microsoft.com/en-us/evalcenter/download-windows-server-2012-r2-essentials
 
+Windows Server 2016 Essentials:
+https://www.microsoft.com/en-us/evalcenter/download-windows-server-2016-essentials
+
+Windows Server 2019 Essentials:
+https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019-essentials
+
 Windows Server 2016:
 https://www.microsoft.com/en-us/evalcenter/download-windows-server-2016
 
