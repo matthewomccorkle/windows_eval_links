@@ -83,3 +83,28 @@ Windows SQL Server 2016:
 https://www.microsoft.com/en-us/evalcenter/download-sql-server-2016
 
 ---
+# System Center
+
+System Center 2022
+https://www.microsoft.com/en-us/evalcenter/download-system-center-2022
+
+System Center 2019
+https://www.microsoft.com/en-us/evalcenter/download-system-center-2019
+
+---
+# Microsoft Security
+
+Configuration Manager Current Branch
+https://www.microsoft.com/en-us/evalcenter/download-microsoft-endpoint-configuration-manager
+
+Configuration Manager Technical Preview
+https://www.microsoft.com/en-us/evalcenter/download-microsoft-endpoint-configuration-manager-technical-preview
+
+Microsoft Intune and Microsoft Configuration Manager Evaluation Lab Kit
+https://www.microsoft.com/en-us/evalcenter/download-mem-evaluation-lab-kit
+
+Identity Manager 2016
+https://www.microsoft.com/en-us/evalcenter/download-microsoft-identity-manager-2016
+
+
+
