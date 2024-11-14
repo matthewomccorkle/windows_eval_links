@@ -17,6 +17,9 @@ https://www.microsoft.com/en-us/evalcenter/download-windows-11-enterprise
 Windows 11 and Office 365 Deployment Lab Kit:
 https://www.microsoft.com/en-us/evalcenter/download-windows-11-office-365-lab-kit
 
+Windows 11 ARM 64 multi-edition:
+https://www.microsoft.com/en-us/software-download/windows11arm64
+
 ---
 # Windows Servers
 
