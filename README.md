@@ -91,6 +91,9 @@ https://www.microsoft.com/en-us/evalcenter/download-sql-server-2016
 ---
 # System Center
 
+System Center 2025
+https://www.microsoft.com/en-us/evalcenter/download-system-center-2025
+
 System Center 2022
 https://www.microsoft.com/en-us/evalcenter/download-system-center-2022
 
