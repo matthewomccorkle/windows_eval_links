@@ -35,6 +35,9 @@ https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019
 Windows Server 2022:
 https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022
 
+Windows Server 2025:
+https://www.microsoft.com/en-us/evalcenter/download-windows-server-2025
+
 ---
 # Windows Server Essentials
 
